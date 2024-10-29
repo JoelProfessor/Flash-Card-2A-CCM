@@ -15,3 +15,27 @@ criaCartao(
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
+
+criaCartao(
+    'Fisolofia',
+    'Ser ou Saber?',
+    'Eis a questão'
+)
+
+criaCartao(
+    'Fisolofia',
+    'Ser ou Saber?',
+    'Eis a questão'
+)
+
+criaCartao(
+    'Fisolofia',
+    'Ser ou Saber?',
+    'Eis a questão'
+)
+
+criaCartao(
+    'Fisolofia',
+    'Ser ou Saber?',
+    'Eis a questão'
+)
